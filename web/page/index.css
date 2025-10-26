@@ -3,7 +3,7 @@
     height: 300px;
     border: 1px solid black;
     /* 背景图 */
-    background-image: url(../staitc/1.png);
+    background-image: url(1.png);
     /* 背景图尺寸 */
     background-size: cover;
     background-repeat: no-repeat;
@@ -64,4 +64,5 @@
     background-color: rgb(255, 255, 255, 0.5);
     border-bottom-right-radius: 80px;
     border-top-left-radius: 80px;
+
 }
