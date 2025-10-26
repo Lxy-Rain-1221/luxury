@@ -3,7 +3,7 @@
     height: 300px;
     border: 1px solid black;
     /* 背景图 */
-    background-image: url(1.png);
+    background-image: url(院运会.jpg);
     /* 背景图尺寸 */
     background-size: cover;
     background-repeat: no-repeat;
@@ -66,3 +66,4 @@
     border-top-left-radius: 80px;
 
 }
+
