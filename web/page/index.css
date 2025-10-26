@@ -32,7 +32,7 @@
     /* 加粗 */
     font-weight: bold;
     /* 背景颜色 */
-    background-color: white;
+    background-color: black;
     /* 圆角 */
     border-bottom-right-radius: 100px;
 }
@@ -66,4 +66,5 @@
     border-top-left-radius: 80px;
 
 }
+
 
